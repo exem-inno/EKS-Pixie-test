@@ -1,0 +1,1 @@
+https://aws.amazon.com/ko/blogs/startups/from-zero-to-eks-with-terraform-and-helm/
